@@ -382,6 +382,7 @@ h1 {
 
 /* Blue lightness decreases by 20 */
 .blues .lightness .color-1 {
+  background-color: hsl(220, 100%, 90%);
 }
 
 .blues .lightness .color-2 {
@@ -402,6 +403,7 @@ h1 {
 
 /* Blue saturation decreases by 20 */
 .blues .saturation .color-1 {
+  background-color: hsl(220, 100%, 50%);
 }
 
 .blues .saturation .color-2 {
@@ -422,6 +424,7 @@ h1 {
 
 /* Blue hue decreases by 20 */
 .blues .hue .color-1 {
+  background-color: hsl(260, 100%, 50%);
 }
 
 .blues .hue .color-2 {
