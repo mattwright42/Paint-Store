@@ -313,6 +313,7 @@ h1 {
 
 /* Green lightness decreases by 20 */
 .greens .lightness .color-1 {
+  background-color: hsl(130, 100%, 90%);
 }
 
 .greens .lightness .color-2 {
@@ -333,6 +334,7 @@ h1 {
 
 /* Green saturation decreases by 20 */
 .greens .saturation .color-1 {
+  background-color: hsl(130, 100%, 50%);
 }
 
 .greens .saturation .color-2 {
@@ -353,6 +355,7 @@ h1 {
 
 /* Green hue increases by 22 */
 .greens .hue .color-1 {
+  background-color: hsl(86, 100%, 50%);
 }
 
 .greens .hue .color-2 {
